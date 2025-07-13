@@ -1,1 +1,1 @@
-Javascript
+Javascript is amazing HBTN
